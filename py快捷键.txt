@@ -1,0 +1,7 @@
+Ctrl + v 粘贴
+Ctrl + c 复制
+Ctrl + d 复制并粘贴
+Ctrl + / 单行或多行注释
+Ctrl + 
+Ctrl + 
+Ctrl + 
